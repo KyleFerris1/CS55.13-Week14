@@ -21,5 +21,28 @@
     "phone": "800-876-3090",
     "birthday": "12/01/2010",
     "id": 3
+  },
+  {
+    "name": "Joseph Programmer",
+    "email": "jane@coder.com",
+    "phone": "800-654-4312",
+    "birthdate": "01/04/2020",
+    "id": 4
+  },
+
+  {
+    "name": "Info Human",
+    "email": "data@person.com",
+    "phone": "800-321-7654",
+    "birthday": "02/01/2001",
+    "id": 5
+  },
+
+  {
+    "name": "Georgina Writer",
+    "email": "george@scripter.com",
+    "phone": "800-678-0903",
+    "birthday": "01/12/2010",
+    "id": 6
   }
 ]
